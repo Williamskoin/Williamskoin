@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kouame Williams Kevin
+# 👋 Hi, I'm Williams KOIN
 ### Senior Analytics Engineer & Portfolio Risk Analyst
 **MBA in Banking & Finance (Risk Management) | BIDA Certified**
 
