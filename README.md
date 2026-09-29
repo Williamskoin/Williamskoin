@@ -24,20 +24,20 @@ Senior Analytics Engineer and Risk Expert bridging the gap between quantitative 
 
 ## 🚀 Featured Analytics & Data Engineering Projects
 
-### 🌾 [Project 1: Global Agricultural & Rangeland Productivity Analytics (LTAR)](https://github.com)
+### 🌾 [Project 1: Global Agricultural & Rangeland Productivity Analytics (LTAR)](https://github.com/Williamskoin/global-agricultural-productivity-analytics)
 *Official Capstone Project and Final Deliverable for the Codecademy BIDA Certification.*
 * **Data Engineering & Harmonization:** Orchestrated complex Python ETL processes to clean, structure, and merge raw environmental and operational source datasets.
 * **Advanced Statistical Validation:** Conducted Pearson Correlation matrices, One-Way ANOVA tests, and Tukey's HSD Post-Hoc analyses to scientifically back business claims.
 * **OPEX Financial Optimization:** Delivered strategic executive recommendations that directly optimize operating expenses (OPEX) by reallocating resource budgets based on high-return biomass yield factors.
 
-### 📊 [Project 2: Omnichannel Demand Planning & Inventory Optimization Control Tower](https://github.com)
+### 📊 [Project 2: Omnichannel Demand Planning & Inventory Optimization Control Tower](https://github.com/Williamskoin/d2c-apparel-demand-planning-inventory-optimization)
 Architected an end-to-end predictive engine and local analytical warehouse to solve asset tracking and multi-channel volatility.
 * **Engineered Quantitative SQL Models:** Formulated dynamic burn-rate and absorption metrics to track safety buffers and automate Days of Inventory (DOI) timelines.
 * **Dynamic Risk Projections:** Built chronological Out-of-Stock (OOS) calendar timestamps, implementing proactive alert triggers for operational teams.
 * **Warehouse Spatial Mapping:** Structured an inventory classification matrix across 109 physical box containers, cross-referencing sizing and asset quality grades to optimize processing velocity.
 
-### 📈 [Project 3: D2C E-Commerce Supply Chain & Operational Analytics](https://github.com)
-Developed an automated, multi-site dashboard tracking financial and operational performance logs across 3 regional hubs.
+### 📈 [Project 3: D2C E-Commerce Supply Chain & Operational Analytics](https://github.com/Williamskoin/d2c-ecommerce-supplychain-analytics)
+Developed an automated, multi-site dashboard tracking financial and operational performance logs across regional hubs.
 * **ETL Automation Pipeline:** Built Python scripts to automate complex data extraction, cleansing, and automated database ledger reconciliation.
 * **Defensive Compliance & Data Masking:** Integrated strict data-masking protocols and Faker algorithms locally to ensure corporate data protection regulations.
 * **Enterprise Reporting Frameworks:** Standardized multi-country reporting KPIs, authoring formal SOPs to secure data consistency and external regulatory audit readiness.
@@ -58,3 +58,4 @@ Developed an automated, multi-site dashboard tracking financial and operational 
 * 💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
 * 📧 **Email:** K3williamskevin@gmail.com
 * 📍 **Location:** Dakar, Senegal (Open to remote/international opportunities)
+
