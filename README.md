@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Williams KOIN
-### Senior Analytics Engineer & Portfolio Risk Analyst
+### Business & Data Analyst
 **MBA in Banking & Finance (Risk Management) | BIDA Certified**
 
 Senior Analytics Engineer and Risk Expert bridging the gap between quantitative risk management, financial forecasting, and defensive data engineering. Specialized in architecting local relational data warehouses, automating cross-border ETL pipelines (SQL/Python), and building advanced institutional control towers to mitigate operational risks and secure data quality assurance.
