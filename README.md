@@ -54,7 +54,7 @@ Developed an automated, multi-site dashboard tracking financial and operational 
 
 ## 📬 Connect with Me
 
-* 💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
+* 💼 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/williams-koin-9349361a3/)
 * 📧 **Email:** K3williamskevin@gmail.com
 * 📍 **Location:** Dakar, Senegal (Open to remote/international opportunities)
 
