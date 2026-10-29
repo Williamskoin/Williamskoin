@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Williams KOIN
-Business & Data Analyst | MBA in Banking & Finance (Risk Management) | BIDA Certified 
+**Business & Data Analyst | MBA in Banking & Finance | BIDA Certified **
 
 I turn commercial and operational data into decisions. For almost 5 years, I have worked at an international fashion brand that sells from Senegal to the USA. I build dashboards, tracking systems and reports for finance, retail, production and logistics teams. I use SQL and Python in my certification and portfolio projects.
 
